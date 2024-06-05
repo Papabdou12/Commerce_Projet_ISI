@@ -1,0 +1,21 @@
+<?php
+if(isset($_POST["Connecter"]))
+{
+	$l=$_POST["login"];
+	$p=$_POST["password"];
+	$f=fopen("admin.csv","r");
+	$bool=false;
+	while($row=fgetcsv($f,1000,";"))
+	{
+		if($l==$row[2] && $p==$row[3])
+			$bool=true;
+	}
+	if($bool==true)
+		header("location:information.php");
+	else
+		header("location:choix.php");
+}else
+{
+	header("location:choix.php");
+}
+?>

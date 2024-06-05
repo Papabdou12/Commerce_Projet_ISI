@@ -1,0 +1,99 @@
+
+footer p{
+text-align:center;
+font-style:italic;
+font-weight:bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#logo
+{
+margin:1% ;
+padding :1.5%;
+width:95%;
+height:25%;
+position:relative;
+background-color:#546e7a;
+box-shadow:7px 7px 7px #263238;
+
+}
+
+
+img
+{
+
+float:left;
+margin: 3px;
+padding:4px;
+width:98%;
+height:94%;
+
+}
+p
+{
+font-size:20px;
+}
+
+body
+
+{
+ background-color:#cfd8dc;
+
+}
+
+
+
+
+#menu2
+
+{
+border:0px solid;
+border-color:#cfd8dc;
+box-shadow:7px 7px 7px #263238;
+margin :17px;
+padding :auto;
+width:62%;
+height:60%;
+position:relative;
+background-color:#607d8b;
+ float:right;
+
+}
+
+#menu
+
+{
+border:0px solid;
+border-color:#cfd8dc;
+box-shadow:7px 7px 7px #263238;
+margin :17px;
+padding :auto;
+width:30%;
+height:60%;
+position:relative;
+background-color:#607d8b;
+ float:left;
+
+}
+
+
+
+
+
+
+
+
+
+
+

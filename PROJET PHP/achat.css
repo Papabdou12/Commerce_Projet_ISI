@@ -1,0 +1,225 @@
+footer p{
+text-align:center;
+font-style:italic;
+font-weight:bold;
+}
+a:link
+{
+color: green;
+}
+a:visited
+{
+color:green;
+}
+a
+{
+text-decoration:none;
+
+background-color:rgba(2,2,2,0);
+}
+
+a:hover
+{
+text-decoration:none;
+
+background-color:rgba(2,2,2,0);
+}
+
+a:visited
+{
+background-color:rgba(2,2,2,0);
+}
+
+#conteneur
+{
+font-size:10px;
+padding:auto;
+float:auto;
+margin :8% 0px 10% 10%  ;
+width:73%;
+height:40%;
+background-color:rgba(2,2,2,0.1);
+border:3px dotted;
+border-color:rgba(2,2,2,0.5);
+border-radius:50px;
+
+}
+div :hover
+{
+background-color:rgba(2,2,2,0.7);
+
+}
+#englobe
+{
+padding:auto;
+positon:absolute;
+margin :auto;
+width:96%;
+height:93%;
+background-color:rgba(2,2,2,0.2);
+border:0px solid;
+
+}
+
+
+
+
+
+img
+{
+
+float:left;
+margin: 5px;
+}
+p
+{
+font-size:20px;
+}
+
+body
+
+{
+
+  background-image:url("last.jpg");
+	
+}
+#achat
+{
+margin:5%;
+width:35%;
+height:70%;
+  background-image:url("ver.jpg");
+float:right;
+padding:10px;
+text-align:right;
+border:0px solid;
+border-radius:5%;
+
+}
+#info
+{
+
+padding:10px;
+margin:5%;
+width:35%;
+height:70%;
+  background-image:url("ver.jpg");
+float:left;
+border:0px solid;
+border-radius:5%;
+}
+
+
+input
+{
+border-radius:10px;
+background-color:rgba(2,2,2,0);
+height:30px;
+   -moz-appearance:textfield;
+}
+
+
+
+input:hover
+{
+border-radius:10px;
+background-color:rgba(2,2,2,0.01);
+box-shadow:1px 1px 0px  2px  pink;
+
+}
+p
+{
+font-size:20px;
+color:silver;
+}
+footer p
+{
+font-size:20px;
+color:black;
+}
+
+#valider
+
+{
+text-align:vertical-align;
+positon:relative;
+margin:-31px  26px;
+width:96%;
+height:5%;
+font-color:green;
+  background-image:url("last.jpg");
+color:silver;
+}
+
+#vert
+{
+background-color:#4caf50;
+border:0px solid;
+height:25px;
+color:indigo;
+font-weight:bold;
+font-size:18px;
+font-family:sans-serif;
+}
+
+#rouge
+{
+background-color:#d32f2f;
+border:0px solid;
+height:25px;
+color:indigo;
+font-weight:bold;
+font-size:18px;
+font-family:sans-serif;
+
+}
+#jaune
+{
+background-color:#fdd835;
+border:0px solid;
+height:25px;
+color:indigo;
+font-weight:bold;
+font-size:18px;
+font-family:sans-serif;
+}
+
+#vert:hover
+{
+background-color:#00e676;
+border:0px solid;
+height:25px;
+color:#4caf50;
+font-weight:bold;
+box-shadow:3px 3px 3px 3px #00e676;
+font-size:18px;
+font-family:sans-serif;
+}
+
+#rouge:hover
+{
+background-color:#ff1744;
+border:0px solid;
+height:25px;
+color:#d32f2f;
+font-weight:bold;
+box-shadow:3px 3px 3px 3px #ff1744;
+font-size:18px;
+font-family:sans-serif;
+}
+#jaune:hover
+{
+font-size:18px;
+font-family:sans-serif;
+background-color:#ffea00;
+border:0px solid;
+height:25px;
+color:#fdd835;
+font-weight:bold;
+box-shadow:3px 3px 3px 3px #ffea00;
+}
+
+
+
+
+

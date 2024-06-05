@@ -1,0 +1,31 @@
+#logo,#banniere
+{
+display:inline-block;
+height:70px;
+}
+#logo
+{
+width:300px;
+background-image: url('../img/logo.png'),url('../img/img1.gif');
+background-size:50% 100%;
+}
+#banniere,p
+{ 
+width:1065px;
+background-color: white;
+background-size:100% 100%;
+float:right;
+}
+p{
+	font-family: monotype corsiva;
+	font-size: 40px;
+}
+.marge1
+{
+	margin-top: 02px;
+}
+body
+{
+	background-image: url('../img/beau.jpg');
+	background-size: 100%;
+}

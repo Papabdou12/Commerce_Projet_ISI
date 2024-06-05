@@ -1,0 +1,31 @@
+
+p{
+	font-family: monotype corsiva;
+	font-size: 40px;
+	color: white;
+	font-weight:bold;
+	text-align:center;
+}
+.marge1
+{
+	margin-top: 02px;
+}
+body
+{
+	background-image: url('../img/beau.jpg');
+	background-size: 100%;
+}
+#point
+{
+  -webkit-animation: mymove3 1s  linear 2s  ; 
+    animation: mymove3 2.5s infinite;
+	width:297px;
+	height:26px;
+margin-left:27px;
+display:block;
+float:left;
+border:0px solid;
+border-radius:15px 15px;
+
+
+}
